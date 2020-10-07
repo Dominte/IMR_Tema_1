@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Poker-sm-242-Kc" size="0.060000 0.084000" />
+    <ImageTarget name="depositphotos_22389177-stock-photo-playing-card-six-of-hearts" size="200.000000 271.352783" />
+    <ImageTarget name="sigla_uaic_ro_color3-1" size="200.000000 142.795700" />
+  </Tracking>
+</QCARConfig>
